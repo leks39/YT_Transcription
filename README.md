@@ -19,6 +19,5 @@ The five steps are as follows:
 5. Print the transcription
 
 
-Learning how to transcribe YouTube videos can take less than 10 minutes, and you can also sneak in the use of functions described earlier in the week. Give it a try to see if it works! Check out the following links in the comment section: YouTube video, transcription, and documentation on GitHub. #Python #Learning #datascience #youtube 
-
+Learning how to transcribe YouTube videos can take less than 10 minutes, and you can also sneak in the use of functions described earlier in the week. Give it a try to see if it works!
 ![Python-Reddit-Banner-2-ezgif com-webp-to-jpg-converter](https://github.com/leks39/YT_Transcription/assets/113634690/05f7cb9a-f1bc-46b4-b06b-1da31c2bc3b7)
